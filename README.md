@@ -1,0 +1,2 @@
+# parimalachikkala
+weather of vizag
